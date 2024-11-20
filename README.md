@@ -7,7 +7,7 @@ This repository contains the code and model weights for the **RelabelMamba** arc
 - [Installation](#installation)
 - [Requirements](#requirements)
 - [Model Architecture](#model-architecture)
-- [Training & Testing](#training-testing)
+- [Training Testing](#training-testing)
 - [File Structure](#file-structure)
 
 ## Installation
