@@ -15,7 +15,7 @@ This repository contains the code and model weights for the **RelabelMamba** arc
 To install the necessary environment for running the code, you can clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/ningwei-wang/RelabelMamba.git
+git clone https://github.com/albert-jin/RelabelMamba.git
 cd RelabelMamba
 ```
 
@@ -94,3 +94,12 @@ RectMamba/
 ```
 
 ```
+## Contributors ✨
+
+Thanks to these amazing contributors for their hard work on this project:
+
+- [Ningwei Wang](https://github.com/ningwei-wang) (major contributions made)
+- [Weiqiang Jin](https://github.com/albert-jin) (minor contributions & supports)
+
+Feel free to check out their profiles for more awesome work! 🎉
+
