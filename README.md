@@ -56,7 +56,7 @@ The key components of the architecture include:
 - **Adaptpuzzle Data Augmentation**: This module generates mixed examples based on clean and noisy labels to enhance the robustness of the model to label noise.
 
 
-## Training  Testing
+## Training Testing
 
 To train the model on your dataset, you can run the following command:
 
