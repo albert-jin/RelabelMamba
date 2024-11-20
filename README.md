@@ -67,7 +67,8 @@ python cifar 10.py --dataset_path /path/to/cifar 10 \
                --noise_ratio 0.3 \
                --k 200 \
                --epochs 50 \
-               --lr 0.001 \```
+               --lr 0.001 \
+```
 
 Please ensure that your dataset is properly formatted and placed in the `data/` directory. You can modify the training configuration in the provided YAML files.
 
